@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "JuliaR"
+theme = "Detox"
+preserveTaxonomyNames = true
+
+
+[params]
+  description = "Portfolio, blog and else"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
